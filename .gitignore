@@ -3,11 +3,7 @@ __pycache__/
 *.log
 *.log.*
 *.pid
-*.db
-*.sqlite3
 *.pyd
 *.pyo
 *.so
 *.dll
-.db
-db.sqlite3
